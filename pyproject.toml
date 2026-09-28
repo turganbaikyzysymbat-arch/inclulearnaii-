@@ -1,0 +1,11 @@
+[project]
+name = "inclulearn-ai"
+version = "1.1.0"
+description = "IncluLearn AI inclusive education platform with accessibility and practice features"
+requires-python = ">=3.10"
+dependencies = [
+    "Flask>=3.1.0",
+    "pypdf>=5.1.0",
+    "python-docx>=1.1.2",
+    "python-pptx>=1.0.2",
+]
